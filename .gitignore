@@ -12,3 +12,6 @@
 
 # Object Developements V-USB files
 vusb/
+
+# encryption key
+firmware/key.h
