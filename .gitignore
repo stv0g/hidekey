@@ -1,0 +1,14 @@
+# AVR object code
+*.bin
+*.eep
+*.hex
+*.lst
+*.o
+*.elf
+*.lss
+*.map
+*.sym
+.dep/
+
+# Object Developements V-USB files
+vusb/
